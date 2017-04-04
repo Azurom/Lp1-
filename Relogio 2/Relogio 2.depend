@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491310971 source:c:\users\aluno\desktop\juan\relogio 2\relogio.cpp
+	"Relogio.h"
+
+1491311501 c:\users\aluno\desktop\juan\relogio 2\relogio.h
+
+1491311900 source:c:\users\aluno\desktop\juan\relogio 2\relogioteste.cpp
+	"RelogioTeste.h"
+	"iostream"
+	"Relogio.h"
+
+1491311325 c:\users\aluno\desktop\juan\relogio 2\relogioteste.h
+	"iostream"
+	"Relogio.h"
+
